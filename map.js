@@ -6,7 +6,7 @@ var active = d3.select(null);
 var scale = 140;
 
 // 3. Create a SVG we will use to make our chart.
-var svg1 = d3.select("div").append('svg')
+var svg1 = d3.select("#main_map").append('svg')
   .attr('width', width)
   .attr('height', height);
 
@@ -97,11 +97,13 @@ d3.csv("https://raw.githubusercontent.com/6859-sp21/a4-cindy/main/threats.csv", 
         .attr("x", (twidth / 2))             
         .attr("y", 0 - margin.top/2)
         .attr("text-anchor", "middle")  
-        .style("font-size", "16px")   
+        .style("font-size", "16px") 
+        .attr("font-family", "Arial, Helvetica, sans-serif")  
         .text("Number of Species by Threat");
   
     // add the x Axis
     xAxis = svg2.append("g")
+        .attr("class","xaxis")
         .attr("transform", "translate(0," + theight + ")")
         .call(d3.axisBottom(x))
         .selectAll("text")
@@ -167,11 +169,13 @@ d3.csv("https://raw.githubusercontent.com/6859-sp21/a4-cindy/main/actions.csv", 
         .attr("x", (twidth / 2))             
         .attr("y", 0 - margin.top/2)
         .attr("text-anchor", "middle")  
-        .style("font-size", "16px")   
+        .style("font-size", "16px") 
+        .attr("font-family", "Arial, Helvetica, sans-serif")    
         .text("Actions Taken");
   
     // add the x Axis
     xAxis_a = svg3.append("g")
+        .attr("class","xaxis")
         .attr("transform", "translate(0," + theight + ")")
         .call(d3.axisBottom(x_a))
         .selectAll("text")
@@ -184,7 +188,84 @@ d3.csv("https://raw.githubusercontent.com/6859-sp21/a4-cindy/main/actions.csv", 
 
 });
 
+// PLANTS OVER TIME
+
+var date_ranges = ['Before 1900', '1900-1919', '1920-1939','1940-1959','1960-1979','1980-1999','2000-2020'];
+
+// append the svg object to the body of the page
+var svg4 = d3.select("#plants").append("svg")
+        .attr("width", twidth + 50 + tmargin.right)
+        .attr("height", theight + tmargin.top + tmargin.bottom)
+        .append("g")
+        .attr("transform", "translate(" + tmargin.left + "," + tmargin.top + ")");
+
+var x_p = d3.scalePoint().range([0, twidth]).domain(date_ranges);
+
+var y_p = d3.scaleLinear().range([ theight, 0 ]);
+
+var plantData, xAxis_p, yAxis_p;
+var plant_cts = {};
+
+d3.csv("https://raw.githubusercontent.com/6859-sp21/a4-cindy/main/plants.csv", function(data) {
+
+        plantData = data.filter(d => d.year_last_seen!="NA");
+
+        plantData.forEach( function(d) {
+            var year = d.year_last_seen;
+            if (plant_cts[year] === undefined){
+                plant_cts[year] = 0;
+            } else {
+                plant_cts[year] = plant_cts[year] + 1;
+            }
+        });
+    
+        plant_cts = d3.entries(plant_cts);
+        console.log(plant_cts);
+        // Add Y axis
+        y_p.domain([0, d3.max(plant_cts, function(d) { return  d.value; })])
+        plant_cts.sort(function(first, second) {
+            return date_ranges.indexOf(first.key) - date_ranges.indexOf(second.key);
+          });
+
+        // Add the area
+        svg4.append("path")
+        .datum(plant_cts)
+        .attr("class","areaChart")
+        .attr("fill", "#69b3a2")
+        .attr("stroke", "#69b3a2")
+        .attr("d", d3.area()
+            .x(function(d) { console.log(x_p(d.key)); return x_p(d.key) })
+            .y1(function(d) { console.log(y_p(d.value)); return y_p(d.value) })
+            .y0(theight)
+            );
+
+        svg4.append("text")
+            .attr("x", (twidth / 2))             
+            .attr("y", 0 - margin.top/2)
+            .attr("text-anchor", "middle")  
+            .style("font-size", "16px")   
+            .attr("font-family", "Arial, Helvetica, sans-serif")  
+            .text("Number of Species Last Seen");
+    
+         // Add X axis --> it is a date format
+         xAxis_p = svg4.append("g")
+                    .attr("class","xaxis")
+                    .attr("transform", "translate(0," + theight + ")")
+                    .call(d3.axisBottom(x_p))
+                    .selectAll("text")
+                    .style("text-anchor", "end")
+                    .attr("transform", "rotate(-25)");
+
+         yAxis_p = svg4.append("g").call(d3.axisLeft(y_p));
+
+})
+
+
+var svgl = d3.select("#species").append("ol");
+
 clicked = function(d) {
+
+    // 1. UPDATE THREAT CHART
     const newData = threatData.filter(datum => datum.country == d.properties.name);
     var new_threat_cts = {};
 
@@ -207,8 +288,10 @@ clicked = function(d) {
     console.log(d.properties.name);
 
     x.domain(new_threat_cts.map(function(datum) { return datum.key; }));
-    xAxis.transition()
-        .duration(100)
+
+    svg2.selectAll(".xaxis")
+        .transition()
+        .duration(1000)
         .call(d3.axisBottom(x))
         .selectAll("text")
         .style("text-anchor", "end")
@@ -233,8 +316,100 @@ clicked = function(d) {
     u.exit().remove()
 
     threat_cts = new_threat_cts;
-}
 
+    // 2. Update Actions Taken
+    const newActions = actionData.filter(datum => datum.country == d.properties.name);
+    var new_action_cts = {};
+
+    newActions.forEach( function(d) {
+        var atype = d.action_type;
+        var action_taken = +d.action_taken;
+        if (new_action_cts[atype] === undefined){
+            new_action_cts[atype] = 0;
+        } else if (action_taken==1) {
+            new_action_cts[atype] = new_action_cts[atype] + 1;
+        }
+    });
+
+    new_action_cts = d3.entries(new_action_cts);
+    new_action_cts.sort(function(x, y){
+        return d3.descending(x.value, y.value);
+     })
+
+    x_a.domain(new_action_cts.map(function(datum) { return datum.key; }));
+
+    svg3.selectAll(".xaxis")
+        .transition()
+        .duration(1000)
+        .call(d3.axisBottom(x_a))
+        .selectAll("text")
+        .style("text-anchor", "end")
+        .attr("transform", "rotate(-65)");
+    y_a.domain([0, d3.max(new_action_cts, function(datum) { return datum.value; })]);
+    yAxis_a.transition().duration(100).call(d3.axisLeft(y_a));
+
+    var u3 = svg3.selectAll("rect").data(new_action_cts)
+    
+    u3.enter()
+        .append("rect")
+        .merge(u3)
+        .transition()
+        .duration(1000)
+        .attr("x", function(datum) { return x_a(datum.key); })
+        .attr("width", x_a.bandwidth())
+        .attr("y", function(datum) { return y_a(datum.value); })
+        .attr("height", function(datum) { return theight - y_a(datum.value); })
+        .attr("fill", "#69b3a2");
+    
+    u3.exit().remove()
+
+    action_cts = new_action_cts;
+
+    // 3. Update Species Last Seen
+    const newSpecies = actionData.filter(datum => datum.country == d.properties.name);
+    var new_plant_cts = {};
+
+    newSpecies.forEach( function(d) {
+        var year = d.year_last_seen;
+        if (new_plant_cts[year] === undefined){
+            new_plant_cts[year] = 0;
+        } else {
+            new_plant_cts[year] = new_plant_cts[year] + 1;
+        }
+    });
+
+    new_plant_cts = d3.entries(new_plant_cts);
+    new_plant_cts.sort(function(first, second) {
+        return date_ranges.indexOf(first.key) - date_ranges.indexOf(second.key);
+      });
+    // Add Y axis
+    y_p.domain([0, d3.max(new_plant_cts, function(datum) { return datum.value; })]);
+    yAxis_p.transition().duration(100).call(d3.axisLeft(y_p));
+
+    // Add the area
+    svg4.selectAll(".areaChart").remove();
+    
+    svg4.append("path")
+    .datum(new_plant_cts)
+    .attr("class", "areaChart")
+    .attr("fill", "#69b3a2")
+    .attr("stroke", "#69b3a2")
+    .attr("d", d3.area()
+        .x(function(d) { console.log(x_p(d.key)); return x_p(d.key) })
+        .y1(function(d) { console.log(y_p(d.value)); return y_p(d.value) })
+        .y0(theight)
+        );
+    plant_cts = new_plant_cts;
+    
+
+    var list = d3.select("#species").select("ol").selectAll("li")
+    .data(d3.map(newSpecies, function(d){return d.binomial_name;}).keys())
+    
+    list.exit().remove();
+
+    list.enter().append("li").text(d => `${d}`);
+
+}
 
 d3.queue()
   .defer(d3.json, "https://raw.githubusercontent.com/holtzy/D3-graph-gallery/master/DATA/world.geojson", )
@@ -300,9 +475,3 @@ d3.queue()
     svg1.call(zoom);
       
   }
-
-
-
-
-// document.getElementById("main_map").appendChild(svg1.node());
-// document.getElementById("threat").appendChild(svg2.node());

@@ -4,6 +4,13 @@
 
     .bar { fill: steelblue; }
 
+    h1 {font-family: fantasy}
+    p {text-align: center;}
+    ul {
+        text-align: center;
+        padding-left: 200
+      } 
+
     div.tooltip {
         position: absolute;
         text-align: center;
@@ -17,6 +24,10 @@
         border-radius: 8px;
         pointer-events: none;
       }
+
+    div.text {
+      font-family: Arial, Helvetica, sans-serif;
+    }
     
   </style>
   <head>
@@ -30,12 +41,25 @@
     <script src="//cdnjs.cloudflare.com/ajax/libs/d3-legend/1.1.0/d3-legend.js"></script> -->
   </head>
   <body>
-    <h1 style="position:absolute;left:300;top:0">Extinct Plants Around the World</h1>
-
+    <h1 class='text' style="position:absolute;left:300;top:0" >Extinct Plants Around the World</h1>
+    <div class='text' style="font-size:14pt;position:absolute;top:60px;left:10px;width:1100"> 
+      <p>In the past century, plants have been going through an important biodiversity crisis. Many species from isolated areas face extinction due to human activities. 
+        Despite actions to preserve these endangered species, the magnitude of threats to biodiversity continue to grow.
+      Using data from the <a href='https://www.iucnredlist.org/'> International Union for Conservation of Nature (IUCN) </a>, we've gathered 
+      over <span style="color: #307D7E"><b>500</b></span> extinct species. 
+      <br><br>1. Where are extinct species clustered geographically?
+        <br>2. What are the greatest threats to biodiversity?
+        <br>3. What actions are being taken?<br><br>
+        <span style="color: #6e73a3"><b>(Click on a country to view its statistics. Scroll to zoom.)</b></span>
+    </p>  
+    </div>
+  	
     <!-- Create an element where the map will take place -->
-    <div id="main_map" style="width:820px;height:620px;position:absolute;top:60px;left:10px;"></div>
-    <div id="threat" style="width:420px;height:320px;position:absolute;top:650px;left:10px;"></div>
-    <div id="actions" style="width:420px;height:320px;position:absolute;top:650px;left:420px;"></div>
+    <div id="main_map" class = 'text' style="width:820px;height:620px;position:absolute;top:280px;left:10px;"></div>
+    <div id="threat" style="width:420px;height:320px;position:absolute;top:870px;left:10px;"></div>
+    <div id="actions" style="width:420px;height:320px;position:absolute;top:870px;left:420px;"></div>
+    <div id="plants" style="width:420px;height:320px;position:absolute;top:870px;left:840px;"></div>
+    <div id="species" style="width:420px;height:320px;position:absolute;top:280px;left:1120px;"></div>
 
     <script src="map.js"></script>
     
