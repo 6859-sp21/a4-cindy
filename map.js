@@ -10,6 +10,13 @@ var svg1 = d3.select("#main_map").append('svg')
   .attr('width', width)
   .attr('height', height);
 
+svg1.append("rect")
+  .attr("class", "background")
+  .attr("fill", "white")
+  .attr("width", width)
+  .attr("height", height)
+  .on("click", reset);
+
 // Map and projection
 var path = d3.geoPath();
 var projection = d3.geoMercator()
@@ -27,6 +34,9 @@ var zoom = d3.zoom().scaleExtent([1, 8]).on("zoom", zoomed);
 
 var tooltip = d3.select("body").append("div")
             .attr("class", "tooltip")
+            .style("opacity", 0);
+
+var plant_info = d3.select("#plant_info")
             .style("opacity", 0);
 
 function zoomed() {
@@ -220,7 +230,6 @@ d3.csv("https://raw.githubusercontent.com/6859-sp21/a4-cindy/main/plants.csv", f
         });
     
         plant_cts = d3.entries(plant_cts);
-        console.log(plant_cts);
         // Add Y axis
         y_p.domain([0, d3.max(plant_cts, function(d) { return  d.value; })])
         plant_cts.sort(function(first, second) {
@@ -234,8 +243,8 @@ d3.csv("https://raw.githubusercontent.com/6859-sp21/a4-cindy/main/plants.csv", f
         .attr("fill", "#69b3a2")
         .attr("stroke", "#69b3a2")
         .attr("d", d3.area()
-            .x(function(d) { console.log(x_p(d.key)); return x_p(d.key) })
-            .y1(function(d) { console.log(y_p(d.value)); return y_p(d.value) })
+            .x(function(d) { return x_p(d.key) })
+            .y1(function(d) { return y_p(d.value) })
             .y0(theight)
             );
 
@@ -260,8 +269,19 @@ d3.csv("https://raw.githubusercontent.com/6859-sp21/a4-cindy/main/plants.csv", f
 
 })
 
+var lwidth = 400,
+    lheight = 800;
 
-var svgl = d3.select("#species").append("ol");
+var species = d3.select("#species")
+var species_dict = {};
+
+// species.select("text")
+//     .attr("x", (lwidth / 2))             
+//     .attr("y", 0 - margin.top/2)
+//     .attr("text-anchor", "middle")  
+//     .style("font-size", "16px")   
+//     .attr("font-family", "Arial, Helvetica, sans-serif")  
+//     .text("");
 
 clicked = function(d) {
 
@@ -284,8 +304,6 @@ clicked = function(d) {
     new_threat_cts.sort(function(x, y){
         return d3.descending(x.value, y.value);
      })
-
-    console.log(d.properties.name);
 
     x.domain(new_threat_cts.map(function(datum) { return datum.key; }));
 
@@ -395,21 +413,78 @@ clicked = function(d) {
     .attr("fill", "#69b3a2")
     .attr("stroke", "#69b3a2")
     .attr("d", d3.area()
-        .x(function(d) { console.log(x_p(d.key)); return x_p(d.key) })
-        .y1(function(d) { console.log(y_p(d.value)); return y_p(d.value) })
+        .x(function(d) { return x_p(d.key) })
+        .y1(function(d) { return y_p(d.value) })
         .y0(theight)
         );
     plant_cts = new_plant_cts;
     
-
-    var list = d3.select("#species").select("ol").selectAll("li")
-    .data(d3.map(newSpecies, function(d){return d.binomial_name;}).keys())
+    species_dict = d3.map(newSpecies, function(d){return d.binomial_name;});
     
-    list.exit().remove();
+    species.select("p").text(`Extinct Species in ${d.properties.name}`);
+    species.select("ol").selectAll("li").remove();
+    species.select("ol")
+            .selectAll("li")
+            .data(species_dict.keys())
+            //.data(newSpecies)
+            .enter()
+            .append("li")
+            .text(d => `${d}`)
+            .on("mouseover", display_plant)
+            .on("mouseleave", display_plant_reset);
 
-    list.enter().append("li").text(d => `${d}`);
+    // MAP ZOOM INTO COUNTRY
+    if (active.node() === this) return reset();
+    active.classed("active", false);
+    active = d3.select(this).classed("active", true);
+  
+    var bounds = path.bounds(d),
+        dx = bounds[1][0] - bounds[0][0],
+        dy = bounds[1][1] - bounds[0][1],
+        x0 = (bounds[0][0] + bounds[1][0]) / 2,
+        y0 = (bounds[0][1] + bounds[1][1]) / 2,
+        scale = Math.max(1, Math.min(8, 0.9 / Math.max(dx / width, dy / height))),
+        translate = [width / 2 - scale * x0, height / 2 - scale * y0];
+  
+    svg1.transition()
+        .duration(750)
+        // .call(zoom.translate(translate).scale(scale).event); // not in d3 v4
+        .call( zoom.transform, d3.zoomIdentity.translate(translate[0],translate[1]).scale(scale) ); // updated for d3 v4
 
 }
+
+  function reset() {
+    active.classed("active", false);
+    active = d3.select(null);
+  
+    svg1.transition()
+        .duration(750)
+        // .call( zoom.transform, d3.zoomIdentity.translate(0, 0).scale(1) ); // not in d3 v4
+        .call( zoom.transform, d3.zoomIdentity ); // updated for d3 v4
+  }
+
+  function display_plant(d) {
+    console.log(species_dict.get(d))
+    var group = species_dict.get(d)["group"];
+    var red_list_category = species_dict.get(d)['red_list_category'];
+    var threats = [];
+    
+    plant_info.transition()
+            .duration(10)
+            .style("opacity", .9);
+    plant_info.html(
+        `<b>Group:</b> ${group} <br>
+         <b>Red list Category:</b> ${red_list_category} <br> 
+         <b>`
+     );
+
+  }
+
+  function display_plant_reset(d) {
+    plant_info.transition()
+        .duration(10)
+        .style("opacity", 0);
+  }
 
 d3.queue()
   .defer(d3.json, "https://raw.githubusercontent.com/holtzy/D3-graph-gallery/master/DATA/world.geojson", )
@@ -436,19 +511,19 @@ d3.queue()
           .style("top", (d3.event.pageY-50) + "px");
       };
 
-      let mouseLeave = function(d) {
-        d3.selectAll(".Country")
-          .transition()
-          .duration(0)
-          .style("opacity", .8);
-        d3.select(this)
-          .transition()
-          .duration(0)
-          .style("stroke", "transparent");
-        tooltip.transition()
-            .duration(10)
-            .style("opacity", 0);
-      };
+    let mouseLeave = function(d) {
+    d3.selectAll(".Country")
+        .transition()
+        .duration(0)
+        .style("opacity", .8);
+    d3.select(this)
+        .transition()
+        .duration(0)
+        .style("stroke", "transparent");
+    tooltip.transition()
+        .duration(10)
+        .style("opacity", 0);
+    };
 
     // Draw the map
     svg1.append("g")
@@ -457,8 +532,7 @@ d3.queue()
       .enter()
       .append("path")
         // draw each country
-      .attr("d", d3.geoPath()
-        .projection(projection)
+      .attr("d", path.projection(projection)
       )
       // set the color of each country
       .attr("fill", function (d) {
