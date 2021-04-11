@@ -1,0 +1,501 @@
+binomial_name,country,continent,group,year_last_seen,threat_AA,threat_BRU,threat_RCD,threat_ISGD,threat_EPM,threat_CC,threat_HID,threat_P,threat_TS,threat_NSM,threat_GE,threat_NA,action_LWP,action_SM,action_LP,action_RM,action_EA,action_NA,red_list_category,threat_description,action_description
+Abutilon pitcairnense,Pitcairn,Oceania,Flowering Plant,2000-2020,0,0,0,1,0,0,0,0,0,0,1,0,1,1,0,1,0,0,Extinct in the Wild,"Geological Events, Invasive Species","Species Management, Land & Water Protection, Research & Monitoring"
+Acaena exigua,United States,North America,Flowering Plant,1980-1999,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Extinct,Invasive Species,Research & Monitoring
+Acalypha dikuluwensis,Congo,Africa,Flowering Plant,1940-1959,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,Energy Production & Mining,
+Acalypha rubrinervis,"Saint Helena, Ascension and Tristan da Cunha",Africa,Flowering Plant,Before 1900,1,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Extinct,"Agriculture & Aquaculture, Invasive Species, Biological Resource Use, Unknown",
+Acalypha wilderi,Cook Islands,Oceania,Flowering Plant,1920-1939,1,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Extinct,"Commercial Development, Agriculture & Aquaculture, Invasive Species, Transportation Corridor",
+Acer hilaense,China,Asia,Flowering Plant,1920-1939,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Extinct in the Wild,Commercial Development,Species Management
+Achyranthes atollensis,United States,North America,Flowering Plant,1960-1979,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,"Commercial Development, Invasive Species",
+Adenophorus periens,United States,North America,Ferns and Allies,2000-2020,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,1,0,0,Extinct,"Geological Events, Invasive Species","Land & Water Protection, Research & Monitoring"
+Adiantum lianxianense,China,Asia,Ferns and Allies,2000-2020,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Extinct,Unknown,
+Aechmea cymosopaniculata,Venezuela,South America,Flowering Plant,Before 1900,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Extinct,"Commercial Development, Agriculture & Aquaculture, Transportation Corridor, Biological Resource Use",
+Aeranthes africana,Zimbabwe,Africa,Flowering Plant,2000-2020,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Extinct in the Wild,Biological Resource Use,Land & Water Protection
+Aeranthes albidiflora,Madagascar,Africa,Flowering Plant,1940-1959,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,Biological Resource Use,
+Aeranthes parkesii,Zimbabwe,Africa,Flowering Plant,1960-1979,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct in the Wild,"Agriculture & Aquaculture, Biological Resource Use",
+Aeschynomene ruspoliana,Ethiopia,Africa,Flowering Plant,Before 1900,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,"Commercial Development, Agriculture & Aquaculture",
+Aetheolaena hypoleuca,Ecuador,South America,Flowering Plant,Before 1900,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,Biological Resource Use,
+Aetheolaena ledifolia,Ecuador,South America,Flowering Plant,Before 1900,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Extinct,Unknown,
+Aetheolaena pichinchensis,Ecuador,South America,Flowering Plant,Before 1900,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Extinct,Unknown,
+Agave lurida,Mexico,North America,Flowering Plant,2000-2020,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct in the Wild,Agriculture & Aquaculture,
+Agelanthus guineensis,Guinea,Africa,Flowering Plant,1940-1959,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,"Commercial Development, Agriculture & Aquaculture",
+Agelanthus rondensis,Tanzania,Africa,Flowering Plant,1900-1919,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,Agriculture & Aquaculture,
+Alangium circulare,Malaysia,Asia,Flowering Plant,1960-1979,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct in the Wild,"Commercial Development, Agriculture & Aquaculture",
+Albizia verrucosa,Madagascar,Africa,Flowering Plant,1960-1979,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Extinct in the Wild,"Agriculture & Aquaculture, Natural System Modifications, Biological Resource Use",
+Albuca nana,South Africa,Africa,Flowering Plant,1900-1919,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,"Commercial Development, Invasive Species",
+Alnus henryi,Taiwan,Asia,Flowering Plant,1900-1919,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,Extinct,"Climate Change, Geological Events",
+Amaranthus brownii,United States,North America,Flowering Plant,1980-1999,0,0,0,1,0,0,0,0,0,1,1,0,1,0,0,1,0,0,Extinct,"Geological Events, Natural System Modifications, Invasive Species","Land & Water Protection, Research & Monitoring"
+Ammannia alternifolia,Madagascar,Africa,Flowering Plant,1900-1919,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,Extinct,"Agriculture & Aquaculture, Climate Change, Natural System Modifications",
+Amorphophallus lewallei,Burundi,Africa,Flowering Plant,1960-1979,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct in the Wild,"Agriculture & Aquaculture, Energy Production & Mining",
+Amsinckia marginata,Ecuador,South America,Flowering Plant,1900-1919,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,Commercial Development,
+Andropogon benthamianus,Ecuador,South America,Flowering Plant,Before 1900,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Extinct,Unknown,
+Angraecopsis dolabriformis,Sao Tome and Principe,Africa,Flowering Plant,Before 1900,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,Extinct,"Agriculture & Aquaculture, Biological Resource Use","Species Management, Law & Policy"
+Angraecum astroarche,Sao Tome and Principe,Africa,Flowering Plant,Before 1900,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,Extinct,"Agriculture & Aquaculture, Biological Resource Use","Species Management, Law & Policy"
+Angraecum mahavavense,Madagascar,Africa,Flowering Plant,1920-1939,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Extinct,"Natural System Modifications, Biological Resource Use",
+Angraecum muscicolum,Madagascar,Africa,Flowering Plant,1920-1939,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Extinct,"Agriculture & Aquaculture, Natural System Modifications, Biological Resource Use",
+Angraecum perhumile,Madagascar,Africa,Flowering Plant,1920-1939,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Extinct,"Natural System Modifications, Biological Resource Use",
+Angraecum potamophilum,Madagascar,Africa,Flowering Plant,Before 1900,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,Biological Resource Use,
+Angraecum rigidifolium,Madagascar,Africa,Flowering Plant,1920-1939,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Extinct,"Natural System Modifications, Biological Resource Use",
+Angraecum rubellum,Madagascar,Africa,Flowering Plant,1960-1979,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Extinct,"Agriculture & Aquaculture, Natural System Modifications, Biological Resource Use",
+Angraecum serpens,Madagascar,Africa,Flowering Plant,1940-1959,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Extinct,"Agriculture & Aquaculture, Natural System Modifications, Biological Resource Use",
+Angraecum sterrophyllum,Madagascar,Africa,Flowering Plant,1900-1919,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Extinct,"Agriculture & Aquaculture, Natural System Modifications, Biological Resource Use",
+Anisopappus burundiensis,Burundi,Africa,Flowering Plant,1960-1979,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,Agriculture & Aquaculture,
+Anisophyllea impressinervia,Malaysia,Asia,Flowering Plant,1960-1979,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,Agriculture & Aquaculture,
+Aponogeton dioecus,Madagascar,Africa,Flowering Plant,1960-1979,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,Extinct,"Agriculture & Aquaculture, Natural System Modifications",Land & Water Protection
+Arboa antsingyae,Madagascar,Africa,Flowering Plant,1940-1959,1,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,Extinct,"Agriculture & Aquaculture, Natural System Modifications, Biological Resource Use",Land & Water Protection
+Argocoffeopsis lemblinii,Côte d'Ivoire,Africa,Flowering Plant,1900-1919,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Extinct,Unknown,
+Argyroxiphium virescens,United States,North America,Flowering Plant,1980-1999,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Extinct,Unknown,
+Artemisia kauaiensis,United States,North America,Flowering Plant,2000-2020,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,1,Extinct,"Climate Change, Natural System Modifications, Invasive Species",
+Aspidostemon inconspicuus,Madagascar,Africa,Flowering Plant,1940-1959,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,Agriculture & Aquaculture,
+Aster quitensis,Ecuador,South America,Flowering Plant,Before 1900,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,Biological Resource Use,
+Astragalus nitidiflorus,Spain,Europe,Flowering Plant,1900-1919,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Extinct,Unknown,
+Athanasia imbricata,South Africa,Africa,Flowering Plant,Before 1900,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,"Agriculture & Aquaculture, Invasive Species",
+Baccharis fusca,Ecuador,South America,Flowering Plant,Before 1900,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Extinct,Unknown,
+Basananthe cupricola,Congo,Africa,Flowering Plant,1980-1999,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,Energy Production & Mining,
+Baudouinia capuronii,Madagascar,Africa,Flowering Plant,1960-1979,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,Agriculture & Aquaculture,
+Begonia cladocarpoides,Madagascar,Africa,Flowering Plant,1900-1919,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,Biological Resource Use,
+Begonia eciliata,Trinidad and Tobago,South America,Flowering Plant,1900-1919,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,"Commercial Development, Agriculture & Aquaculture, Energy Production & Mining",
+Begonia eiromischa,Malaysia,Asia,Flowering Plant,Before 1900,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,"Agriculture & Aquaculture, Biological Resource Use",
+Beilschmiedia neoletestui,Gabon,Africa,Flowering Plant,1920-1939,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,Agriculture & Aquaculture,
+Beilschmiedia pellegrinii,Gabon,Africa,Flowering Plant,1920-1939,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,Agriculture & Aquaculture,
+Beilschmiedia thollonii,Gabon,Africa,Flowering Plant,Before 1900,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,Agriculture & Aquaculture,
+Beilschmiedia yangambiensis,Congo,Africa,Flowering Plant,1940-1959,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Extinct,Agriculture & Aquaculture,Land & Water Protection
+Benthamia catatiana,Madagascar,Africa,Flowering Plant,1920-1939,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,"Energy Production & Mining, Biological Resource Use",
+Benthamia nigro-vaginata,Madagascar,Africa,Flowering Plant,1920-1939,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Extinct,"Natural System Modifications, Biological Resource Use",
+Berlinia hollandii,Nigeria,Africa,Flowering Plant,Before 1900,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Extinct,"Commercial Development, Biological Resource Use",Species Management
+Betula gynoterminalis,China,Asia,Flowering Plant,1940-1959,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,Biological Resource Use,
+Bidens ruyigiensis,Burundi,Africa,Flowering Plant,1960-1979,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,Agriculture & Aquaculture,
+Blepharis reekmansii,Burundi,Africa,Flowering Plant,1980-1999,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,Agriculture & Aquaculture,
+Blotiella coriacea,Tanzania,Africa,Ferns and Allies,1960-1979,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Extinct,Agriculture & Aquaculture,Land & Water Protection
+Blutaparon rigidum,Ecuador,South America,Flowering Plant,1900-1919,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,Invasive Species,
+Breonia membranacea,Madagascar,Africa,Flowering Plant,1940-1959,1,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,Extinct,"Agriculture & Aquaculture, Natural System Modifications, Biological Resource Use",Land & Water Protection
+Breonia richardsonii,Madagascar,Africa,Flowering Plant,1960-1979,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Extinct,"Agriculture & Aquaculture, Biological Resource Use",Land & Water Protection
+Brieya latipetala,Angola,Africa,Flowering Plant,1940-1959,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,Extinct,"Energy Production & Mining, Human Intrusions",
+Brighamia insignis,United States,North America,Flowering Plant,2000-2020,0,0,1,1,0,1,0,0,0,0,1,0,1,1,0,1,1,0,Extinct in the Wild,"Commercial Development, Climate Change, Geological Events, Invasive Species","Species Management, Land & Water Protection, Research & Monitoring, Education & Awareness"
+Bromus bromoideus,Belgium,Europe,Flowering Plant,1920-1939,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,Extinct in the Wild,"Agriculture & Aquaculture, Pollution",Species Management
+Bromus interruptus,United Kingdom,Europe,Flowering Plant,1960-1979,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Extinct in the Wild,Agriculture & Aquaculture,Species Management
+Brugmansia arborea,Peru,South America,Flowering Plant,Before 1900,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct in the Wild,Biological Resource Use,
+Brugmansia aurea,Colombia,South America,Flowering Plant,Before 1900,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct in the Wild,Biological Resource Use,
+Brugmansia insignis,Peru,South America,Flowering Plant,Before 1900,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct in the Wild,Biological Resource Use,
+Brugmansia sanguinea,Peru,South America,Flowering Plant,Before 1900,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct in the Wild,Biological Resource Use,
+Brugmansia suaveolens,Brazil,South America,Flowering Plant,Before 1900,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct in the Wild,Biological Resource Use,
+Brugmansia versicolor,Ecuador,South America,Flowering Plant,Before 1900,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct in the Wild,Biological Resource Use,
+Brugmansia vulcanicola,Colombia,South America,Flowering Plant,Before 1900,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct in the Wild,Biological Resource Use,
+Bulbophyllum conchophyllum,Indonesia,Oceania,Flowering Plant,1900-1919,1,1,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,Extinct,"Commercial Development, Agriculture & Aquaculture, Natural System Modifications, Biological Resource Use",Species Management
+Bulbophyllum erythroglossum,Madagascar,Africa,Flowering Plant,1960-1979,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,Extinct,Biological Resource Use,"Species Management, Law & Policy"
+Bulbophyllum hirsutiusculum,Madagascar,Africa,Flowering Plant,1920-1939,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,Extinct,Biological Resource Use,"Species Management, Law & Policy"
+Bulbophyllum minax,Madagascar,Africa,Flowering Plant,1900-1919,0,1,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,Extinct,"Natural System Modifications, Biological Resource Use","Species Management, Law & Policy"
+Bulbophyllum sanguineum,Madagascar,Africa,Flowering Plant,1920-1939,1,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,Extinct,"Agriculture & Aquaculture, Biological Resource Use","Species Management, Law & Policy, Land & Water Protection"
+Bulbophyllum sceliphron,Papua New Guinea,Oceania,Flowering Plant,1980-1999,1,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,Extinct,"Agriculture & Aquaculture, Climate Change, Natural System Modifications, Biological Resource Use",Species Management
+Bulbophyllum tampoketsense,Madagascar,Africa,Flowering Plant,1920-1939,0,1,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,Extinct,"Natural System Modifications, Biological Resource Use","Species Management, Law & Policy"
+Byttneria ivorensis,Côte d'Ivoire,Africa,Flowering Plant,Before 1900,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Extinct,Unknown,
+Callerya neocaledonica,New Caledonia,Oceania,Flowering Plant,1980-1999,1,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,1,Extinct,"Agriculture & Aquaculture, Climate Change, Natural System Modifications, Invasive Species",
+Camellia amplexicaulis,Viet Nam,Asia,Flowering Plant,2000-2020,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,Extinct in the Wild,Unknown,Species Management
+Campomanesia lundiana,Brazil,South America,Flowering Plant,Before 1900,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Extinct,Unknown,
+Camptocarpus cornutus,Madagascar,Africa,Flowering Plant,1920-1939,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,Biological Resource Use,
+Canavalia veillonii,New Caledonia,Oceania,Flowering Plant,1980-1999,0,0,0,1,0,1,0,0,0,1,0,0,1,0,0,0,0,0,Extinct,"Climate Change, Natural System Modifications, Invasive Species",Land & Water Protection
+Capparis grandidieri,Madagascar,Africa,Flowering Plant,Before 1900,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,"Commercial Development, Agriculture & Aquaculture",
+Capparis lucens,Rwanda,Africa,Flowering Plant,1920-1939,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,"Commercial Development, Agriculture & Aquaculture",
+Casearia quinduensis,Colombia,South America,Flowering Plant,,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Extinct,Unknown,
+Casearia tinifolia,Mauritius,Africa,Flowering Plant,1960-1979,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Extinct,Unknown,
+Centaurea pseudoleucolepis,Ukraine,Europe,Flowering Plant,1920-1939,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,Extinct,Unknown,Law & Policy
+Centropogon brachysiphoniatus,Ecuador,South America,Flowering Plant,1920-1939,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Extinct,"Commercial Development, Natural System Modifications, Invasive Species",
+Ceratostema pensile,Ecuador,South America,Flowering Plant,1940-1959,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,"Commercial Development, Energy Production & Mining",
+Cereus estevesii,Brazil,South America,Flowering Plant,2000-2020,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,Extinct in the Wild,Agriculture & Aquaculture,"Species Management, Law & Policy"
+Cestrum flavescens,Mexico,North America,Flowering Plant,1960-1979,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Extinct,Commercial Development,Land & Water Protection
+Cestrum flavinervium,Mexico,North America,Flowering Plant,1920-1939,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,Extinct,"Climate Change, Natural System Modifications, Biological Resource Use",
+Chassalia coursii,Madagascar,Africa,Flowering Plant,1940-1959,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Extinct,"Agriculture & Aquaculture, Biological Resource Use",Land & Water Protection
+Chrysophyllum januariense,Brazil,South America,Flowering Plant,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,Commercial Development,
+Cinnamomum bhamoensis,Myanmar,Asia,Flowering Plant,1900-1919,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Extinct,"Commercial Development, Agriculture & Aquaculture, Transportation Corridor",
+Cinnamomum englerianum,Papua New Guinea,Oceania,Flowering Plant,1900-1919,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,Agriculture & Aquaculture,
+Cinnamomum gracillimum,Indonesia,Oceania,Flowering Plant,1920-1939,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,Agriculture & Aquaculture,
+Cinnamomum longipedicellatum,Papua New Guinea,Oceania,Flowering Plant,1960-1979,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,Agriculture & Aquaculture,
+Cinnamomum pachypes,Malaysia,Asia,Flowering Plant,1960-1979,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Extinct,Agriculture & Aquaculture,Land & Water Protection
+Cinnamomum petiolatum,Indonesia,Oceania,Flowering Plant,1960-1979,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,Extinct,"Agriculture & Aquaculture, Energy Production & Mining",Land & Water Protection
+Cinnamomum rosselianum,Papua New Guinea,Oceania,Flowering Plant,1940-1959,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,Agriculture & Aquaculture,
+Cinnamomum trintaense,Malaysia,Asia,Flowering Plant,Before 1900,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,Energy Production & Mining,
+Clermontia multiflora,United States,North America,Flowering Plant,Before 1900,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Extinct,Unknown,
+Clitoria andrei,Ecuador,South America,Flowering Plant,Before 1900,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Extinct,Unknown,
+Cloiselia humbertii,Madagascar,Africa,Flowering Plant,1920-1939,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Extinct,Natural System Modifications,
+Cnidoscolus fragrans,Cuba,North America,Flowering Plant,Before 1900,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,Commercial Development,
+Coffea alleizettii,Madagascar,Africa,Flowering Plant,1960-1979,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Extinct,Agriculture & Aquaculture,Species Management
+Coffea decaryana,Madagascar,Africa,Flowering Plant,1940-1959,1,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,Extinct,"Agriculture & Aquaculture, Natural System Modifications, Biological Resource Use",Land & Water Protection
+Coffea heterocalyx,Cameroon,Africa,Flowering Plant,2000-2020,1,1,1,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,Extinct in the Wild,"Transportation Corridor, Biological Resource Use, Agriculture & Aquaculture, Commercial Development, Energy Production & Mining",Species Management
+Coffea leonimontana,Cameroon,Africa,Flowering Plant,1960-1979,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,"Agriculture & Aquaculture, Biological Resource Use",
+Cola mosserayana,Congo,Africa,Flowering Plant,1920-1939,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,"Agriculture & Aquaculture, Biological Resource Use",
+Cola vandersmisseniana,Congo,Africa,Flowering Plant,1940-1959,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,"Agriculture & Aquaculture, Biological Resource Use",
+Commidendrum gummiferum,"Saint Helena, Ascension and Tristan da Cunha",Africa,Flowering Plant,,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Extinct,Unknown,
+Corypha taliera,India,Asia,Flowering Plant,2000-2020,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Extinct in the Wild,Unknown,
+Costus vinosus,Panama,North America,Flowering Plant,2000-2020,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct in the Wild,Agriculture & Aquaculture,
+Cotula myriophylloides,South Africa,Africa,Flowering Plant,1960-1979,0,0,1,1,0,0,0,1,0,1,0,0,0,0,0,0,0,1,Extinct,"Commercial Development, Pollution, Invasive Species, Natural System Modifications",
+Crudia zeylanica,Sri Lanka,Asia,Flowering Plant,1980-1999,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Extinct,Unknown,
+Cryosophila williamsii,Honduras,North America,Flowering Plant,1980-1999,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct in the Wild,"Commercial Development, Agriculture & Aquaculture, Biological Resource Use",
+Ctenitis pallatangana,Ecuador,South America,Ferns and Allies,Before 1900,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,Agriculture & Aquaculture,
+Cupaniopsis crassivalvis,New Caledonia,Oceania,Flowering Plant,Before 1900,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Extinct,Unknown,
+Curcuma pygmaea,Viet Nam,Asia,Flowering Plant,2000-2020,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,Agriculture & Aquaculture,
+Cyanea arborea,United States,North America,Flowering Plant,1920-1939,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Extinct,Unknown,
+Cyanea comata,United States,North America,Flowering Plant,Before 1900,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Extinct,Unknown,
+Cyanea cylindrocalyx,United States,North America,Flowering Plant,1900-1919,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Extinct,Unknown,
+Cyanea dolichopoda,United States,North America,Flowering Plant,1980-1999,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,Extinct,"Climate Change, Geological Events",Research & Monitoring
+Cyanea eleeleensis,United States,North America,Flowering Plant,1960-1979,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,Invasive Species,
+Cyanea giffardii,United States,North America,Flowering Plant,1900-1919,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Extinct,Unknown,
+Cyanea kolekoleensis,United States,North America,Flowering Plant,1980-1999,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,1,0,0,Extinct,"Climate Change, Natural System Modifications, Invasive Species",Research & Monitoring
+Cyanea kuhihewa,United States,North America,Flowering Plant,2000-2020,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,Extinct in the Wild,"Climate Change, Invasive Species",Species Management
+Cyanea linearifolia,United States,North America,Flowering Plant,1940-1959,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,Invasive Species,
+Cyanea mauiensis,United States,North America,Flowering Plant,Before 1900,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Extinct,Unknown,
+Cyanea minutiflora,United States,North America,Flowering Plant,1900-1919,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,Invasive Species,
+Cyanea parvifolia,United States,North America,Flowering Plant,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,Invasive Species,
+Cyanea pinnatifida,United States,North America,Flowering Plant,2000-2020,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Extinct in the Wild,"Commercial Development, Invasive Species",Species Management
+Cyanea pohaku,United States,North America,Flowering Plant,1900-1919,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Extinct,Unknown,
+Cyanea pycnocarpa,United States,North America,Flowering Plant,,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Extinct,Unknown,
+Cyanea quercifolia,United States,North America,Flowering Plant,,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Extinct,Unknown,
+Cyanea sessilifolia,United States,North America,Flowering Plant,1940-1959,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Extinct,"Natural System Modifications, Invasive Species",
+Cyanea superba,United States,North America,Flowering Plant,2000-2020,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,Extinct in the Wild,"Natural System Modifications, Invasive Species",Species Management
+Cycas fugax,Viet Nam,Asia,Cycad,2000-2020,1,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,Extinct,"Commercial Development, Agriculture & Aquaculture, Biological Resource Use","Species Management, Law & Policy"
+Cyclophyllum tiebaghiense,New Caledonia,Oceania,Flowering Plant,2000-2020,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,Energy Production & Mining,
+Cyclosorus burundensis,Burundi,Africa,Ferns and Allies,1960-1979,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,"Commercial Development, Agriculture & Aquaculture",
+Cynoglossum lowryanum,Madagascar,Africa,Flowering Plant,1900-1919,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Extinct,"Agriculture & Aquaculture, Biological Resource Use",Land & Water Protection
+Cynoglossum tsaratananense,Madagascar,Africa,Flowering Plant,1920-1939,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Extinct,Agriculture & Aquaculture,Land & Water Protection
+Cynometra beddomei,India,Asia,Flowering Plant,Before 1900,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Extinct,"Agriculture & Aquaculture, Natural System Modifications, Biological Resource Use",
+Cynorkis bimaculata,Madagascar,Africa,Flowering Plant,1960-1979,0,1,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,Extinct,"Natural System Modifications, Biological Resource Use","Species Management, Law & Policy"
+Cynorkis catatii,Madagascar,Africa,Flowering Plant,Before 1900,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Extinct,"Natural System Modifications, Biological Resource Use",
+Cynorkis marojejyensis,Madagascar,Africa,Flowering Plant,1940-1959,0,0,0,0,0,1,1,1,0,1,0,0,1,0,0,0,0,0,Extinct,"Climate Change, Natural System Modifications, Pollution, Human Intrusions",Land & Water Protection
+Cynorkis rolfei,Madagascar,Africa,Flowering Plant,1900-1919,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,Extinct,Biological Resource Use,"Species Management, Law & Policy"
+Cynorkis sylvatica,Madagascar,Africa,Flowering Plant,1940-1959,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,Extinct,Biological Resource Use,"Species Management, Law & Policy"
+Cynorkis usambarae,Tanzania,Africa,Flowering Plant,Before 1900,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,Agriculture & Aquaculture,
+Cyperus chionocephalus,Ethiopia,Africa,Flowering Plant,1920-1939,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,"Agriculture & Aquaculture, Biological Resource Use",
+Cyperus multifolius,Ecuador,South America,Flowering Plant,Before 1900,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Extinct,Unknown,
+Cyperus rockii,United States,North America,Flowering Plant,1900-1919,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,Invasive Species,
+Cyphostemma michelii,Burundi,Africa,Flowering Plant,1940-1959,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Extinct,"Agriculture & Aquaculture, Human Intrusions",
+Cyrtandra crenata,United States,North America,Flowering Plant,1940-1959,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,1,0,0,Extinct,"Climate Change, Invasive Species","Land & Water Protection, Research & Monitoring"
+Cyrtandra olona,United States,North America,Flowering Plant,1900-1919,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,Invasive Species,
+Cyrtandra waiolani,United States,North America,Flowering Plant,1940-1959,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct in the Wild,Invasive Species,
+Dalea sabinalis,United States,North America,Flowering Plant,1940-1959,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,"Commercial Development, Agriculture & Aquaculture, Invasive Species",
+Delilia inelegans,Ecuador,South America,Flowering Plant,Before 1900,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Extinct,Unknown,
+Delissea niihauensis,United States,North America,Flowering Plant,Before 1900,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,"Climate Change, Invasive Species",
+Delissea rhytidosperma,United States,North America,Flowering Plant,2000-2020,0,0,0,1,0,0,0,0,0,0,0,1,1,1,0,1,0,0,Extinct in the Wild,"Unknown, Invasive Species","Species Management, Land & Water Protection, Research & Monitoring"
+Delissea subcordata,United States,North America,Flowering Plant,1920-1939,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Extinct,"Natural System Modifications, Invasive Species",
+Delissea takeuchii,United States,North America,Flowering Plant,1980-1999,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,Extinct,"Climate Change, Invasive Species",Research & Monitoring
+Delissea undulata,United States,North America,Flowering Plant,Before 1900,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Extinct,"Agriculture & Aquaculture, Natural System Modifications, Invasive Species",
+Delonix tomentosa,Madagascar,Africa,Flowering Plant,1900-1919,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Extinct,"Agriculture & Aquaculture, Natural System Modifications",
+Dendrobium bandaense,Indonesia,Asia,Flowering Plant,1900-1919,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,Extinct,Geological Events,Land & Water Protection
+Dendrobium brillianum,Indonesia,Oceania,Flowering Plant,1900-1919,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Extinct,"Commercial Development, Agriculture & Aquaculture, Biological Resource Use",Species Management
+Devillea flagelliformis,Brazil,South America,Flowering Plant,Before 1900,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,Invasive Species,
+Dicoma pretoriensis,South Africa,Africa,Flowering Plant,1920-1939,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Extinct,"Commercial Development, Invasive Species, Human Intrusions",
+Dillenia fischeri,Philippines,Asia,Flowering Plant,1900-1919,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,"Commercial Development, Agriculture & Aquaculture, Invasive Species, Energy Production & Mining",
+Diospyros katendei,Uganda,Africa,Flowering Plant,2000-2020,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,Biological Resource Use,
+Diospyros ketsensis,Madagascar,Africa,Flowering Plant,1920-1939,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Extinct,"Agriculture & Aquaculture, Natural System Modifications, Biological Resource Use",
+Diospyros subtrinervis,Madagascar,Africa,Flowering Plant,Before 1900,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Extinct,"Agriculture & Aquaculture, Natural System Modifications, Biological Resource Use",
+Diplazium laffanianum,Bermuda,North America,Ferns and Allies,1900-1919,0,0,1,1,0,0,1,1,1,0,0,0,0,1,0,0,0,0,Extinct in the Wild,"Invasive Species, Transportation Corridor, Pollution, Human Intrusions, Commercial Development",Species Management
+Diplazium ulugurense,Tanzania,Africa,Ferns and Allies,1960-1979,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,Agriculture & Aquaculture,
+Discocactus subterraneo-proliferans,Brazil,South America,Flowering Plant,1980-1999,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,Extinct in the Wild,Agriculture & Aquaculture,"Species Management, Law & Policy"
+Disperis bosseri,Madagascar,Africa,Flowering Plant,1940-1959,0,1,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,Extinct,"Natural System Modifications, Biological Resource Use","Species Management, Law & Policy"
+Disperis egregia,Tanzania,Africa,Flowering Plant,1940-1959,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,"Invasive Species, Biological Resource Use",
+Dissotis longisepala,Burundi,Africa,Flowering Plant,1940-1959,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,Agriculture & Aquaculture,
+Dombeya macropoda,Madagascar,Africa,Flowering Plant,1980-1999,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Extinct,"Agriculture & Aquaculture, Biological Resource Use",Land & Water Protection
+Dombeya micrantha,Madagascar,Africa,Flowering Plant,1940-1959,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,"Agriculture & Aquaculture, Biological Resource Use",
+Dombeya pauciflora,Madagascar,Africa,Flowering Plant,1960-1979,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Extinct,"Agriculture & Aquaculture, Natural System Modifications",
+Dombeya sakamaliensis,Madagascar,Africa,Flowering Plant,1920-1939,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Extinct,"Natural System Modifications, Biological Resource Use",
+Dombeya sely,Madagascar,Africa,Flowering Plant,1940-1959,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,Extinct,"Agriculture & Aquaculture, Natural System Modifications",Land & Water Protection
+Dombeya seyrigiana,Madagascar,Africa,Flowering Plant,1940-1959,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Extinct,"Agriculture & Aquaculture, Natural System Modifications, Biological Resource Use",
+Dombeya tavia,Madagascar,Africa,Flowering Plant,1940-1959,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,Extinct,"Agriculture & Aquaculture, Energy Production & Mining, Natural System Modifications, Biological Resource Use",
+Dombeya tsiandrensis,Madagascar,Africa,Flowering Plant,1940-1959,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Extinct,"Agriculture & Aquaculture, Natural System Modifications, Biological Resource Use",
+Dorstenia bicaudata,Tanzania,Africa,Flowering Plant,1940-1959,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,Agriculture & Aquaculture,
+Drosera allantostigma,Australia,Oceania,Flowering Plant,2000-2020,1,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,Extinct,"Agriculture & Aquaculture, Natural System Modifications, Transportation Corridor",Land & Water Protection
+Dryopteris ascensionis,"Saint Helena, Ascension and Tristan da Cunha",Africa,Ferns and Allies,1960-1979,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Extinct,"Geological Events, Invasive Species",
+Dubautia kenwoodii,United States,North America,Flowering Plant,1980-1999,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,1,0,0,Extinct,"Climate Change, Geological Events, Invasive Species",Research & Monitoring
+Dypsis brittiana,Madagascar,Africa,Flowering Plant,2000-2020,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Extinct,Biological Resource Use,Land & Water Protection
+Egletes humifusa,Ecuador,South America,Flowering Plant,Before 1900,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,Biological Resource Use,
+Elaeocarpus occidentalis,Madagascar,Africa,Flowering Plant,1940-1959,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,Extinct,"Agriculture & Aquaculture, Energy Production & Mining, Natural System Modifications, Biological Resource Use",
+Elaphandra retroflexa,Ecuador,South America,Flowering Plant,1920-1939,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,Biological Resource Use,
+Elaphoglossum gracilipes,Ecuador,South America,Ferns and Allies,Before 1900,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,Agriculture & Aquaculture,
+Elaphoglossum polytrichum,Ecuador,South America,Ferns and Allies,Before 1900,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,Agriculture & Aquaculture,
+Eleocharis lepta,South Africa,Africa,Flowering Plant,Before 1900,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Extinct,Unknown,
+Emicocarpus fissifolius,Mozambique,Africa,Flowering Plant,1960-1979,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,Commercial Development,
+Emilia djalonensis,Guinea,Africa,Flowering Plant,1900-1919,1,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,Extinct,"Commercial Development, Agriculture & Aquaculture, Natural System Modifications, Energy Production & Mining",
+Encephalartos brevifoliolatus,South Africa,Africa,Cycad,2000-2020,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,Extinct in the Wild,Biological Resource Use,"Species Management, Law & Policy"
+Encephalartos cerinus,South Africa,Africa,Cycad,1980-1999,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,Extinct,Biological Resource Use,"Species Management, Law & Policy"
+Encephalartos hirsutus,South Africa,Africa,Cycad,2000-2020,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,Extinct,Unknown,"Species Management, Law & Policy, Land & Water Protection"
+Encephalartos inopinus,South Africa,Africa,Cycad,2000-2020,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,Extinct,Biological Resource Use,"Species Management, Law & Policy"
+Encephalartos nubimontanus,South Africa,Africa,Cycad,2000-2020,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,Extinct in the Wild,Biological Resource Use,"Species Management, Law & Policy, Land & Water Protection"
+Encephalartos relictus,Swaziland,Africa,Cycad,1960-1979,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,Extinct in the Wild,Biological Resource Use,"Species Management, Law & Policy"
+Encephalartos woodii,South Africa,Africa,Cycad,1900-1919,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,Extinct in the Wild,Biological Resource Use,"Species Management, Law & Policy"
+Endiandra scrobiculata,Malaysia,Asia,Flowering Plant,1960-1979,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,Extinct,"Commercial Development, Human Intrusions",Land & Water Protection
+Epidendrum lanceolatum,Trinidad and Tobago,South America,Flowering Plant,Before 1900,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,Energy Production & Mining,
+Eragrostis fosbergii,United States,North America,Flowering Plant,1980-1999,0,0,0,1,0,1,0,0,0,1,0,0,1,0,0,1,0,0,Extinct,"Climate Change, Natural System Modifications, Invasive Species","Land & Water Protection, Research & Monitoring"
+Eremospatha barendii,Cameroon,Africa,Flowering Plant,2000-2020,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,"Agriculture & Aquaculture, Biological Resource Use",
+Eriocaulon caesium,Trinidad and Tobago,South America,Flowering Plant,Before 1900,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Extinct,Commercial Development,Land & Water Protection
+Eriocaulon hildebrandtii,Madagascar,Africa,Flowering Plant,Before 1900,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Extinct,"Commercial Development, Agriculture & Aquaculture, Human Intrusions",
+Eriocaulon parvicapitulatum,Madagascar,Africa,Flowering Plant,1900-1919,1,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,Extinct,"Commercial Development, Agriculture & Aquaculture, Transportation Corridor, Human Intrusions",
+Erythroxylum echinodendron,Cuba,North America,Flowering Plant,,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct in the Wild,"Commercial Development, Agriculture & Aquaculture, Biological Resource Use",
+Etlingera heyneana,Indonesia,Asia,Flowering Plant,1920-1939,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,"Commercial Development, Agriculture & Aquaculture",
+Etlingera newmanii,Malaysia,Asia,Flowering Plant,1980-1999,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,Agriculture & Aquaculture,
+Eugenia albida,Ecuador,South America,Flowering Plant,Before 1900,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Extinct,Unknown,
+Eugenia guayaquilensis,Ecuador,South America,Flowering Plant,Before 1900,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Extinct,Unknown,
+Eugenia scheffleri,Tanzania,Africa,Flowering Plant,1900-1919,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Extinct,Agriculture & Aquaculture,Land & Water Protection
+Eulophia grandidieri,Madagascar,Africa,Flowering Plant,1900-1919,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,Extinct,Biological Resource Use,"Species Management, Law & Policy"
+Eulophia stenopetala,Bhutan,Asia,Flowering Plant,Before 1900,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Extinct,Unknown,
+Euphorbia alcicornis,Madagascar,Africa,Flowering Plant,Before 1900,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Extinct,Natural System Modifications,
+Euphorbia boinensis,Madagascar,Africa,Flowering Plant,1920-1939,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,Extinct,"Natural System Modifications, Biological Resource Use",Land & Water Protection
+Euphorbia capuronii,Madagascar,Africa,Flowering Plant,1940-1959,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Extinct in the Wild,Biological Resource Use,Species Management
+Euphorbia mayurnathanii,India,Asia,Flowering Plant,1920-1939,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Extinct in the Wild,Unknown,
+Euphorbia neospinescens,Tanzania,Africa,Flowering Plant,1940-1959,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,Agriculture & Aquaculture,
+Euphorbia pirahazo,Madagascar,Africa,Flowering Plant,1920-1939,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Extinct,"Natural System Modifications, Biological Resource Use",
+Euphorbia ramofraga,Madagascar,Africa,Flowering Plant,1920-1939,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,Extinct,"Natural System Modifications, Biological Resource Use",Land & Water Protection
+Euphrasia mendoncae,Portugal,Europe,Flowering Plant,1920-1939,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,Extinct,Unknown,Law & Policy
+Fissidens microstictus,Portugal,Europe,Mosses,1980-1999,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,Commercial Development,
+Fitchia mangarevensis,French Polynesia,Oceania,Flowering Plant,1920-1939,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Extinct,Unknown,
+Flabellidium spinosum,Bolivia,South America,Mosses,1900-1919,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,"Agriculture & Aquaculture, Biological Resource Use",
+Foetidia rubescens,Madagascar,Africa,Flowering Plant,1960-1979,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Extinct,"Agriculture & Aquaculture, Biological Resource Use",Land & Water Protection
+Franklinia alatamaha,United States,North America,Flowering Plant,Before 1900,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,Extinct in the Wild,"Natural System Modifications, Biological Resource Use",Species Management
+Furcraea macdougallii,Mexico,North America,Flowering Plant,1960-1979,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Extinct in the Wild,"Agriculture & Aquaculture, Natural System Modifications",
+Galaxaura barbata,Ecuador,South America,Algae,1960-1979,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,Extinct,Climate Change,Land & Water Protection
+Galipea ossana,Cuba,North America,Flowering Plant,Before 1900,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Extinct,Unknown,
+Gaultheria stereophylla,Ecuador,South America,Flowering Plant,1900-1919,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Extinct,Unknown,
+Geostachys taipingensis,Malaysia,Asia,Flowering Plant,1940-1959,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,Commercial Development,
+Gomidesia cambessedeana,Brazil,South America,Flowering Plant,Before 1900,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Extinct,Unknown,
+Gomphandra dinagatensis,Philippines,Asia,Flowering Plant,1900-1919,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,"Energy Production & Mining, Biological Resource Use",
+Gossypium armourianum,Mexico,North America,Flowering Plant,2000-2020,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Extinct in the Wild,"Commercial Development, Invasive Species",Land & Water Protection
+Grewia monantha,Madagascar,Africa,Flowering Plant,1960-1979,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,"Commercial Development, Agriculture & Aquaculture",
+Grewia perrieri,Madagascar,Africa,Flowering Plant,1900-1919,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,"Commercial Development, Agriculture & Aquaculture, Biological Resource Use",
+Grewia tsiandrensis,Madagascar,Africa,Flowering Plant,1920-1939,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Extinct,Agriculture & Aquaculture,Land & Water Protection
+Guettarda retusa,Cuba,North America,Flowering Plant,Before 1900,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,Biological Resource Use,
+Guzmania lepidota,Ecuador,South America,Flowering Plant,Before 1900,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,"Agriculture & Aquaculture, Biological Resource Use",
+Guzmania poortmanii,Ecuador,South America,Flowering Plant,Before 1900,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,"Agriculture & Aquaculture, Biological Resource Use",
+Guzmania striata,Ecuador,South America,Flowering Plant,1940-1959,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,"Agriculture & Aquaculture, Biological Resource Use",
+Gynura campanulata,Kenya,Africa,Flowering Plant,1920-1939,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,"Commercial Development, Agriculture & Aquaculture",
+Gyrostipula obtusa,Madagascar,Africa,Flowering Plant,1960-1979,1,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,Extinct,"Agriculture & Aquaculture, Natural System Modifications, Biological Resource Use",Land & Water Protection
+Habenaria lewallei,Burundi,Africa,Flowering Plant,1960-1979,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,"Agriculture & Aquaculture, Energy Production & Mining",
+Habenaria petromedusa,Cabo Verde,Africa,Flowering Plant,Before 1900,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Extinct,Unknown,
+Heliotropium pannifolium,"Saint Helena, Ascension and Tristan da Cunha",Africa,Flowering Plant,Before 1900,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,Invasive Species,
+Helmiopsis glaberrima,Madagascar,Africa,Flowering Plant,1940-1959,1,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,Extinct,"Agriculture & Aquaculture, Natural System Modifications, Biological Resource Use",Land & Water Protection
+Hernandia drakeana,French Polynesia,Oceania,Flowering Plant,1900-1919,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Extinct,Unknown,
+Heterosamara bennae,Guinea,Africa,Flowering Plant,1920-1939,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Extinct,"Agriculture & Aquaculture, Natural System Modifications",
+Hibiscadelphus bombycinus,United States,North America,Flowering Plant,Before 1900,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Extinct,Unknown,
+Hibiscadelphus crucibracteatus,United States,North America,Flowering Plant,1980-1999,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Extinct,Unknown,
+Hibiscadelphus wilderianus,United States,North America,Flowering Plant,1900-1919,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Extinct,Unknown,
+Hibiscadelphus woodii,United States,North America,Flowering Plant,1980-1999,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,1,0,0,Extinct,"Geological Events, Invasive Species, Human Intrusions",Research & Monitoring
+Hibiscus grandistipulatus,Madagascar,Africa,Flowering Plant,1940-1959,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,"Agriculture & Aquaculture, Biological Resource Use",
+Hibiscus storckii,Fiji,Oceania,Flowering Plant,2000-2020,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Extinct in the Wild,"Climate Change, Invasive Species",
+Hopea shingkeng,India,Asia,Flowering Plant,,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Extinct,Unknown,
+Hunteria hexaloba,Gabon,Africa,Flowering Plant,1900-1919,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,"Commercial Development, Agriculture & Aquaculture, Energy Production & Mining, Biological Resource Use",
+Hydrostachys perrieri,Madagascar,Africa,Flowering Plant,1900-1919,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,Extinct,"Natural System Modifications, Energy Production & Mining",
+Hymenodictyon seyrigii,Madagascar,Africa,Flowering Plant,1940-1959,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,Extinct,"Natural System Modifications, Energy Production & Mining",
+Hypericum gnidiifolium,Ethiopia,Africa,Flowering Plant,Before 1900,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,"Agriculture & Aquaculture, Biological Resource Use",
+Ilex gardneriana,India,Asia,Flowering Plant,Before 1900,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,"Commercial Development, Agriculture & Aquaculture, Biological Resource Use",
+Ilex ternatiflora,Cuba,North America,Flowering Plant,Before 1900,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Extinct,Unknown,
+Impatiens boinensis,Madagascar,Africa,Flowering Plant,1900-1919,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,Extinct,"Agriculture & Aquaculture, Climate Change, Natural System Modifications",
+Impatiens granulifera,Madagascar,Africa,Flowering Plant,1920-1939,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Extinct,"Agriculture & Aquaculture, Natural System Modifications, Biological Resource Use",
+Impatiens saliensis,Tanzania,Africa,Flowering Plant,1920-1939,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,Agriculture & Aquaculture,
+Indigofera ankaratrensis,Madagascar,Africa,Flowering Plant,1900-1919,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Extinct,"Agriculture & Aquaculture, Natural System Modifications",
+Indigofera pobeguinii,Guinea,Africa,Flowering Plant,1900-1919,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Extinct,"Commercial Development, Natural System Modifications",
+Inversodicraea abbayesii,Guinea,Africa,Flowering Plant,1940-1959,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,1,Extinct,"Natural System Modifications, Pollution, Energy Production & Mining",
+Inversodicraea pygmaea,Guinea,Africa,Flowering Plant,1940-1959,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,1,Extinct,"Natural System Modifications, Pollution, Energy Production & Mining",
+Isoetes heldreichii,Greece,Europe,Ferns and Allies,Before 1900,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Extinct,Unknown,
+Isoetes sinensis,China,Asia,Ferns and Allies,2000-2020,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,"Commercial Development, Agriculture & Aquaculture",
+Ixora trimera,Madagascar,Africa,Flowering Plant,1940-1959,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,"Agriculture & Aquaculture, Biological Resource Use",
+Kadua haupuensis,United States,North America,Flowering Plant,1980-1999,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,1,0,0,Extinct in the Wild,Invasive Species,"Species Management, Land & Water Protection, Research & Monitoring"
+Kanaloa kahoolawensis,United States,North America,Flowering Plant,2000-2020,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,1,0,0,Extinct in the Wild,"Climate Change, Invasive Species","Species Management, Research & Monitoring"
+Kokia cookei,United States,North America,Flowering Plant,1960-1979,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct in the Wild,Agriculture & Aquaculture,
+Kokia lanceolata,United States,North America,Flowering Plant,Before 1900,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Extinct,Unknown,
+Kunkeliella psilotoclada,Spain,Europe,Flowering Plant,1980-1999,1,0,0,1,0,0,0,0,0,0,0,0,1,1,1,0,0,0,Extinct,"Agriculture & Aquaculture, Invasive Species","Species Management, Law & Policy, Land & Water Protection"
+Kyllinga chrysanthoides,Burundi,Africa,Flowering Plant,1960-1979,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,Agriculture & Aquaculture,
+Lachanodes arborea,"Saint Helena, Ascension and Tristan da Cunha",Africa,Flowering Plant,2000-2020,1,1,0,1,0,0,0,0,0,1,0,1,0,1,1,1,0,0,Extinct in the Wild,"Invasive Species, Biological Resource Use, Agriculture & Aquaculture, Unknown, Natural System Modifications","Species Management, Law & Policy, Research & Monitoring"
+Lepidium amissum,New Zealand,Oceania,Flowering Plant,1900-1919,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Extinct,Unknown,
+Lepidium obtusatum,New Zealand,Oceania,Flowering Plant,1940-1959,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,"Energy Production & Mining, Invasive Species, Biological Resource Use",
+Licania caldasiana,Colombia,South America,Flowering Plant,,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Extinct,Unknown,
+Lijndenia brenanii,Tanzania,Africa,Flowering Plant,1960-1979,0,1,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,Extinct,"Energy Production & Mining, Invasive Species, Biological Resource Use",Land & Water Protection
+Lijndenia ramiflora,Madagascar,Africa,Flowering Plant,1960-1979,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Extinct,"Agriculture & Aquaculture, Natural System Modifications",
+Linderniella boutiqueana,Burundi,Africa,Flowering Plant,1960-1979,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,"Commercial Development, Agriculture & Aquaculture, Energy Production & Mining",
+Linderniella ugandensis,Uganda,Africa,Flowering Plant,1900-1919,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,Agriculture & Aquaculture,
+Logania depressa,New Zealand,Oceania,Flowering Plant,Before 1900,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Extinct,"Natural System Modifications, Invasive Species",
+Loudetiopsis baldwinii,Guinea,Africa,Flowering Plant,1940-1959,1,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,Extinct,"Commercial Development, Agriculture & Aquaculture, Transportation Corridor, Energy Production & Mining",
+Lysimachia minoricensis,Spain,Europe,Flowering Plant,1920-1939,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Extinct in the Wild,Biological Resource Use,Species Management
+Maclurodendron parviflorum,Malaysia,Asia,Flowering Plant,1960-1979,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,Commercial Development,
+Madhuca insignis,India,Asia,Flowering Plant,2000-2020,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,"Commercial Development, Agriculture & Aquaculture, Biological Resource Use",
+Madhuca markleeana,Malaysia,Asia,Flowering Plant,1980-1999,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,"Agriculture & Aquaculture, Biological Resource Use",
+Magnolia dixonii,Ecuador,South America,Flowering Plant,1960-1979,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Extinct,"Agriculture & Aquaculture, Transportation Corridor, Biological Resource Use",
+Magnolia emarginata,Haiti,North America,Flowering Plant,1980-1999,1,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,Extinct,"Agriculture & Aquaculture, Climate Change, Geological Events, Biological Resource Use",
+Magnolia wolfii,Colombia,South America,Flowering Plant,2000-2020,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,Extinct in the Wild,Agriculture & Aquaculture,"Species Management, Land & Water Protection"
+Manettia canescens,Ecuador,South America,Flowering Plant,Before 1900,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Extinct,Unknown,
+Manettia holwayi,Ecuador,South America,Flowering Plant,1920-1939,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Extinct,Unknown,
+Mangifera casturi,Indonesia,Asia,Flowering Plant,1980-1999,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct in the Wild,Agriculture & Aquaculture,
+Mangifera rubropetala,Malaysia,Asia,Flowering Plant,Before 1900,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Extinct in the Wild,Unknown,
+Manilkara gonavensis,Haiti,North America,Flowering Plant,1920-1939,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Extinct,"Agriculture & Aquaculture, Natural System Modifications, Biological Resource Use",
+Margaritaria hispidula,Madagascar,Africa,Flowering Plant,1960-1979,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Extinct,"Agriculture & Aquaculture, Natural System Modifications, Biological Resource Use",
+Marsdenia weberlingiana,New Caledonia,Oceania,Flowering Plant,1960-1979,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Extinct,Natural System Modifications,
+Matelea ecuadorensis,Ecuador,South America,Flowering Plant,Before 1900,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Extinct,Unknown,
+Maxillaria broadwayi,Trinidad and Tobago,South America,Flowering Plant,1900-1919,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,"Commercial Development, Agriculture & Aquaculture",
+Maytenus manabiensis,Ecuador,South America,Flowering Plant,Before 1900,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Extinct,Unknown,
+Melanochyla woodiana,Malaysia,Asia,Flowering Plant,1940-1959,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Extinct,"Agriculture & Aquaculture, Natural System Modifications",
+Melhania polyneura,Tanzania,Africa,Flowering Plant,Before 1900,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,Agriculture & Aquaculture,
+Melicope cruciata,United States,North America,Flowering Plant,2000-2020,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Extinct,Unknown,
+Melicope fatraina,Madagascar,Africa,Flowering Plant,1900-1919,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,"Agriculture & Aquaculture, Biological Resource Use",
+Melicope haleakalae,United States,North America,Flowering Plant,1900-1919,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,"Agriculture & Aquaculture, Invasive Species",
+Melicope macropus,United States,North America,Flowering Plant,1980-1999,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,Invasive Species,
+Melicope nealae,United States,North America,Flowering Plant,1960-1979,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,Invasive Species,
+Melicope obovata,United States,North America,Flowering Plant,,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Extinct,Unknown,
+Melicope paniculata,United States,North America,Flowering Plant,2000-2020,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,"Agriculture & Aquaculture, Invasive Species",
+Melpomene brevipes,Ecuador,South America,Ferns and Allies,Before 1900,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,Agriculture & Aquaculture,
+Memecylon isaloense,Madagascar,Africa,Flowering Plant,1940-1959,1,1,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,Extinct,"Agriculture & Aquaculture, Natural System Modifications, Biological Resource Use, Human Intrusions",Land & Water Protection
+Mesanthemum cupricola,Congo,Africa,Flowering Plant,1940-1959,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,Energy Production & Mining,
+Mezoneuron ouenensis,New Caledonia,Oceania,Flowering Plant,Before 1900,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,Extinct,"Energy Production & Mining, Human Intrusions",
+Miconia abscondita,Haiti,North America,Flowering Plant,1920-1939,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,"Agriculture & Aquaculture, Climate Change",
+Miconia longisetosa,Ecuador,South America,Flowering Plant,Before 1900,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Extinct,Unknown,
+Miconia scabra,Ecuador,South America,Flowering Plant,Before 1900,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Extinct,Unknown,
+Microglossa caudata,Guinea,Africa,Flowering Plant,1900-1919,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Extinct,"Commercial Development, Agriculture & Aquaculture, Natural System Modifications",
+Mikania iserniana,Ecuador,South America,Flowering Plant,Before 1900,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,"Commercial Development, Agriculture & Aquaculture",
+Mikania seemannii,Ecuador,South America,Flowering Plant,Before 1900,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Extinct,Unknown,
+Mimosa kitrokala,Madagascar,Africa,Flowering Plant,1940-1959,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,"Energy Production & Mining, Biological Resource Use",
+Musa insularimontana,Taiwan,Asia,Flowering Plant,1900-1919,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,Extinct in the Wild,"Unknown, Pollution",
+Musa yamiensis,Taiwan,Asia,Flowering Plant,2000-2020,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,Extinct,"Climate Change, Energy Production & Mining",Law & Policy
+Musa zaifui,China,Asia,Flowering Plant,2000-2020,1,0,0,0,0,1,0,1,0,0,1,0,0,1,1,0,0,0,Extinct in the Wild,"Agriculture & Aquaculture, Climate Change, Geological Events, Pollution","Species Management, Law & Policy"
+Myosotis laingii,New Zealand,Oceania,Flowering Plant,1900-1919,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Extinct,Unknown,
+Myrcia skeldingii,Jamaica,North America,Flowering Plant,1960-1979,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,"Commercial Development, Agriculture & Aquaculture, Biological Resource Use",
+Myriophyllum axilliflorum,Madagascar,Africa,Flowering Plant,1920-1939,1,1,1,1,1,0,1,1,0,1,0,0,0,0,0,0,0,1,Extinct,"Invasive Species, Biological Resource Use, Agriculture & Aquaculture, Pollution, Human Intrusions, Commercial Development, Natural System Modifications, Energy Production & Mining",
+Nanochilus palembanicus,Indonesia,Asia,Flowering Plant,Before 1900,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,"Agriculture & Aquaculture, Biological Resource Use",
+Nectandra caudatoacuminata,Haiti,North America,Flowering Plant,1920-1939,1,1,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,1,Extinct,"Invasive Species, Biological Resource Use, Agriculture & Aquaculture, Climate Change, Natural System Modifications",
+Neomacounia nitida,Canada,North America,Mosses,Before 1900,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Extinct,Unknown,
+Nesiota elliptica,"Saint Helena, Ascension and Tristan da Cunha",Africa,Flowering Plant,2000-2020,1,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Extinct,"Agriculture & Aquaculture, Invasive Species, Biological Resource Use, Unknown",
+Nidorella burundiensis,Burundi,Africa,Flowering Plant,1940-1959,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,Agriculture & Aquaculture,
+Nobregaea latinervis,Portugal,Europe,Mosses,1940-1959,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,"Commercial Development, Agriculture & Aquaculture",
+Noronhia populifolia,Madagascar,Africa,Flowering Plant,1900-1919,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,"Agriculture & Aquaculture, Biological Resource Use",
+Nymphaea thermarum,Rwanda,Africa,Flowering Plant,2000-2020,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,Extinct in the Wild,"Commercial Development, Natural System Modifications",Species Management
+Ochrosia brownii,French Polynesia,Oceania,Flowering Plant,2000-2020,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Extinct,Unknown,
+Ochrosia fatuhivensis,French Polynesia,Oceania,Flowering Plant,2000-2020,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Extinct,Unknown,
+Ochrosia tahitensis,French Polynesia,Oceania,Flowering Plant,,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Extinct,Unknown,
+Oeceoclades seychellarum,Seychelles,Africa,Flowering Plant,1900-1919,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,Agriculture & Aquaculture,
+Oldenlandia adscensionis,"Saint Helena, Ascension and Tristan da Cunha",Africa,Flowering Plant,1980-1999,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,"Agriculture & Aquaculture, Invasive Species",
+Onosma griersonii,Bhutan,Asia,Flowering Plant,1980-1999,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Extinct,"Commercial Development, Transportation Corridor",
+Ormosia howii,China,Asia,Flowering Plant,1940-1959,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,"Agriculture & Aquaculture, Biological Resource Use",
+Ornithogalum visianicum,Croatia,Europe,Flowering Plant,1900-1919,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Extinct,Unknown,
+Orthosiphon scedastophyllus,Tanzania,Africa,Flowering Plant,1920-1939,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,Agriculture & Aquaculture,
+Orthosiphon schliebenii,Tanzania,Africa,Flowering Plant,1920-1939,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,Agriculture & Aquaculture,
+Otophora unilocularis,China,Asia,Flowering Plant,1920-1939,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Extinct,Unknown,
+Panicum pearsonii,Namibia,Africa,Flowering Plant,1900-1919,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Extinct,Unknown,
+Pausinystalia brachythyrsum,Cameroon,Africa,Flowering Plant,Before 1900,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Extinct,Unknown,
+Pentagonia orthoneura,Ecuador,South America,Flowering Plant,Before 1900,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Extinct,Unknown,
+Peperomia dauleana,Ecuador,South America,Flowering Plant,Before 1900,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Extinct,Unknown,
+Peperomia petraea,Ecuador,South America,Flowering Plant,Before 1900,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Extinct,Unknown,
+Peponidium ihosyense,Madagascar,Africa,Flowering Plant,1940-1959,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,Extinct,"Natural System Modifications, Biological Resource Use",Land & Water Protection
+Philodendron balaoanum,Ecuador,South America,Flowering Plant,Before 1900,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Extinct,Unknown,
+Phycodrina elegans,Ecuador,South America,Algae,1960-1979,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,Extinct,Climate Change,Land & Water Protection
+Phyllanthus burundiensis,Burundi,Africa,Flowering Plant,1960-1979,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,"Commercial Development, Agriculture & Aquaculture, Energy Production & Mining, Biological Resource Use",
+Phyllanthus felicis,Guinea,Africa,Flowering Plant,1940-1959,1,1,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,Extinct,"Biological Resource Use, Agriculture & Aquaculture, Commercial Development, Natural System Modifications, Energy Production & Mining",
+Phyllanthus mimicus,Trinidad and Tobago,South America,Flowering Plant,1900-1919,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,"Commercial Development, Agriculture & Aquaculture",
+Phyllostegia kahiliensis,United States,North America,Flowering Plant,1980-1999,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Extinct,Invasive Species,Research & Monitoring
+Phyllostegia knudsenii,United States,North America,Flowering Plant,2000-2020,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Extinct,Invasive Species,Research & Monitoring
+Phyllostegia mannii,United States,North America,Flowering Plant,2000-2020,0,0,0,1,0,1,0,0,0,1,0,0,1,1,0,1,0,0,Extinct in the Wild,"Climate Change, Natural System Modifications, Invasive Species","Species Management, Land & Water Protection, Research & Monitoring"
+Physalis muelleri,Mexico,North America,Flowering Plant,1920-1939,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Extinct,Commercial Development,Land & Water Protection
+Physalis tehuacanensis,Mexico,North America,Flowering Plant,1960-1979,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,"Commercial Development, Agriculture & Aquaculture, Climate Change",
+Pimpinella robynsii,Burundi,Africa,Flowering Plant,1920-1939,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,Agriculture & Aquaculture,
+Piper molliusculum,Ecuador,South America,Flowering Plant,Before 1900,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Extinct,Unknown,
+Pittosporum leroyanum,New Caledonia,Oceania,Flowering Plant,1980-1999,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Extinct,Unknown,
+Plectranthus scopulicola,Tanzania,Africa,Flowering Plant,1940-1959,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,Agriculture & Aquaculture,
+Pluchea glutinosa,Yemen,Asia,Flowering Plant,Before 1900,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Extinct,Unknown,
+Podocarpus perrieri,Madagascar,Africa,Conifer,1940-1959,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,"Agriculture & Aquaculture, Biological Resource Use",
+Polygala quitensis,Ecuador,South America,Flowering Plant,Before 1900,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Extinct,Unknown,
+Polystachya acuminata,Tanzania,Africa,Flowering Plant,1940-1959,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,"Agriculture & Aquaculture, Biological Resource Use",
+Polystachya canaliculata,Tanzania,Africa,Flowering Plant,1940-1959,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,"Commercial Development, Agriculture & Aquaculture",
+Polystachya erica-lanzae,Rwanda,Africa,Flowering Plant,1980-1999,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Extinct,"Agriculture & Aquaculture, Human Intrusions",
+Polystachya porphyrochila,Tanzania,Africa,Flowering Plant,1960-1979,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,Agriculture & Aquaculture,
+Polystachya rugosilabia,Tanzania,Africa,Flowering Plant,1940-1959,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,Agriculture & Aquaculture,
+Pouteria stenophylla,Brazil,South America,Flowering Plant,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,Commercial Development,
+Pradosia argentea,Peru,South America,Flowering Plant,Before 1900,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Extinct,Unknown,
+Pradosia glaziovii,Brazil,South America,Flowering Plant,,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,"Commercial Development, Agriculture & Aquaculture, Biological Resource Use",
+Pradosia mutisii,Colombia,South America,Flowering Plant,,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Extinct,Unknown,
+Premna aureolepidota,Madagascar,Africa,Flowering Plant,1920-1939,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,Extinct,"Agriculture & Aquaculture, Natural System Modifications",Land & Water Protection
+Prestonia schumanniana,Ecuador,South America,Flowering Plant,Before 1900,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Extinct,Unknown,
+Psiadia schweinfurthii,Yemen,Asia,Flowering Plant,Before 1900,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Extinct,Unknown,
+Psidium dumetorum,Jamaica,North America,Flowering Plant,1960-1979,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Extinct,Unknown,
+Psychotria veillonii,New Caledonia,Oceania,Flowering Plant,1980-1999,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,Energy Production & Mining,
+Pterospermum elmeri,Philippines,Asia,Flowering Plant,1900-1919,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Extinct,Biological Resource Use,Land & Water Protection
+Pterospermum havilandii,Malaysia,Asia,Flowering Plant,Before 1900,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,Extinct in the Wild,"Energy Production & Mining, Natural System Modifications, Biological Resource Use",
+Pterospermum parvifolium,Indonesia,Asia,Flowering Plant,1920-1939,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,Agriculture & Aquaculture,
+Puccinellia gussonei,Italy,Europe,Flowering Plant,2000-2020,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Extinct,Invasive Species,Land & Water Protection
+Pycnandra micrantha,New Caledonia,Oceania,Flowering Plant,1900-1919,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,Extinct,"Natural System Modifications, Energy Production & Mining",
+Rauvolfia nukuhivensis,French Polynesia,Oceania,Flowering Plant,2000-2020,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Extinct,Unknown,
+Rhamnus mildbraedii,Rwanda,Africa,Flowering Plant,1900-1919,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,Agriculture & Aquaculture,
+Rhipidoglossum orientalis,Tanzania,Africa,Flowering Plant,1920-1939,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,Agriculture & Aquaculture,
+Rhododendron kanehirai,Taiwan,Asia,Flowering Plant,1980-1999,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Extinct in the Wild,Natural System Modifications,
+Rhododendron wilhelminae,Indonesia,Asia,Flowering Plant,1900-1919,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,Extinct,Climate Change,Land & Water Protection
+Rhynchosia braunii,Tanzania,Africa,Flowering Plant,1900-1919,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,Agriculture & Aquaculture,
+Rhynchosia calobotrya,Tanzania,Africa,Flowering Plant,1920-1939,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,Agriculture & Aquaculture,
+Rhynchosia ledermannii,Cameroon,Africa,Flowering Plant,1900-1919,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,"Agriculture & Aquaculture, Biological Resource Use",
+Rhynchospora hildebrandtii,Madagascar,Africa,Flowering Plant,Before 1900,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,Extinct,"Commercial Development, Agriculture & Aquaculture, Pollution",
+Ritchiea afzelii,Guinea,Africa,Flowering Plant,Before 1900,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,"Commercial Development, Agriculture & Aquaculture",
+Roupala tobagensis,Trinidad and Tobago,South America,Flowering Plant,1900-1919,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,"Commercial Development, Agriculture & Aquaculture",
+Sabicea bracteolata,Guinea,Africa,Flowering Plant,1940-1959,1,1,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,Extinct,"Biological Resource Use, Agriculture & Aquaculture, Commercial Development, Natural System Modifications, Energy Production & Mining",
+Sanicula kauaiensis,United States,North America,Flowering Plant,1940-1959,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,Invasive Species,
+Santalum fernandezianum,Chile,South America,Flowering Plant,1900-1919,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,Biological Resource Use,
+Saurauia minutiflora,Malaysia,Asia,Flowering Plant,1980-1999,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Extinct,"Agriculture & Aquaculture, Natural System Modifications",
+Scaphium burkillfilii,Malaysia,Asia,Flowering Plant,1960-1979,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,Agriculture & Aquaculture,
+Schiedea amplexicaulis,United States,North America,Flowering Plant,Before 1900,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,Invasive Species,
+Schiedea attenuata,United States,North America,Flowering Plant,1980-1999,0,0,0,1,0,0,0,0,0,0,1,0,1,1,0,1,0,0,Extinct in the Wild,"Geological Events, Invasive Species","Species Management, Land & Water Protection, Research & Monitoring"
+Schizenterospermum analamerense,Madagascar,Africa,Flowering Plant,1920-1939,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,Extinct,"Agriculture & Aquaculture, Natural System Modifications",Land & Water Protection
+Semecarpus angulatus,Malaysia,Asia,Flowering Plant,1980-1999,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,Agriculture & Aquaculture,
+Semecarpus sandakanus,Malaysia,Asia,Flowering Plant,1960-1979,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,Agriculture & Aquaculture,
+Senecio antaisaka,Madagascar,Africa,Flowering Plant,1920-1939,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Extinct,"Natural System Modifications, Biological Resource Use",
+Senecio antambolorum,Madagascar,Africa,Flowering Plant,1920-1939,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Extinct,"Agriculture & Aquaculture, Natural System Modifications, Biological Resource Use",
+Senecio leucopeplus,Argentina,South America,Flowering Plant,2000-2020,1,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,Extinct in the Wild,"Agriculture & Aquaculture, Human Intrusions","Species Management, Land & Water Protection"
+Senecio lewallei,Burundi,Africa,Flowering Plant,1960-1979,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,"Agriculture & Aquaculture, Biological Resource Use",
+Senecio navugabensis,Uganda,Africa,Flowering Plant,1920-1939,1,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,Extinct,"Commercial Development, Agriculture & Aquaculture, Natural System Modifications, Human Intrusions",
+Senna suarezensis,Madagascar,Africa,Flowering Plant,2000-2020,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Extinct,"Agriculture & Aquaculture, Biological Resource Use",Land & Water Protection
+Sicyos villosus,Ecuador,South America,Flowering Plant,Before 1900,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Extinct,Unknown,
+Silene perlmanii,United States,North America,Flowering Plant,1980-1999,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,1,0,0,Extinct in the Wild,Invasive Species,"Species Management, Land & Water Protection, Research & Monitoring"
+Siphocampylus loxensis,Ecuador,South America,Flowering Plant,Before 1900,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Extinct,Unknown,
+Solanum semicoalitum,Ecuador,South America,Flowering Plant,Before 1900,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Extinct,Unknown,
+Sophora toromiro,Chile,South America,Flowering Plant,1920-1939,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Extinct in the Wild,Unknown,
+Sphyrospermum spruceanum,Ecuador,South America,Flowering Plant,Before 1900,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Extinct,Unknown,
+Sporobolus durus,"Saint Helena, Ascension and Tristan da Cunha",Africa,Flowering Plant,Before 1900,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Extinct,"Agriculture & Aquaculture, Geological Events, Invasive Species",
+Stachyandra imberbis,Madagascar,Africa,Flowering Plant,1940-1959,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,Extinct,"Energy Production & Mining, Natural System Modifications, Biological Resource Use",
+Stachytarpheta fallax,Cabo Verde,Africa,Flowering Plant,Before 1900,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Extinct,Unknown,
+Stellaria elatinoides,New Zealand,Oceania,Flowering Plant,1940-1959,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Extinct,"Natural System Modifications, Invasive Species",
+Stenocarpus dumbeensis,New Caledonia,Oceania,Flowering Plant,1900-1919,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Extinct,Unknown,
+Stenogyne bifida,United States,North America,Flowering Plant,2000-2020,0,0,0,1,0,1,0,0,0,0,1,0,0,1,0,1,0,0,Extinct in the Wild,"Climate Change, Geological Events, Invasive Species","Species Management, Research & Monitoring"
+Stenogyne campanulata,United States,North America,Flowering Plant,2000-2020,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,1,0,0,Extinct in the Wild,Invasive Species,"Species Management, Land & Water Protection, Research & Monitoring"
+Stenogyne kanehoana,United States,North America,Flowering Plant,2000-2020,0,0,0,1,0,1,0,0,0,1,0,0,1,1,0,1,0,0,Extinct in the Wild,"Climate Change, Natural System Modifications, Invasive Species","Species Management, Land & Water Protection, Research & Monitoring"
+Sterculia khasiana,India,Asia,Flowering Plant,Before 1900,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Extinct,"Commercial Development, Agriculture & Aquaculture, Natural System Modifications",
+Stereospermum zenkeri,Cameroon,Africa,Flowering Plant,1940-1959,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,Commercial Development,
+Steriphoma urbani,Ecuador,South America,Flowering Plant,1980-1999,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,Biological Resource Use,
+Stonesia fascicularis,Guinea,Africa,Flowering Plant,1940-1959,1,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,Extinct,"Commercial Development, Agriculture & Aquaculture, Pollution, Energy Production & Mining",
+Stonesia gracilis,Guinea,Africa,Flowering Plant,1940-1959,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,1,Extinct,"Natural System Modifications, Pollution, Energy Production & Mining",
+Streblorrhiza speciosa,Norfolk Island,Oceania,Flowering Plant,Before 1900,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Extinct,Unknown,
+Syzygium badescens,Malaysia,Asia,Flowering Plant,1920-1939,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Extinct,"Agriculture & Aquaculture, Natural System Modifications",
+Tachiadenus umbellatus,Madagascar,Africa,Flowering Plant,1920-1939,1,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,Extinct,"Agriculture & Aquaculture, Energy Production & Mining, Human Intrusions",Land & Water Protection
+Taeniophyllum borneense,Indonesia,Asia,Flowering Plant,1900-1919,1,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,Extinct,"Agriculture & Aquaculture, Climate Change, Natural System Modifications",Species Management
+Tephrosia djalonica,Guinea,Africa,Flowering Plant,1900-1919,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Extinct,"Commercial Development, Agriculture & Aquaculture, Natural System Modifications",
+Tephrosia pinifolia,Madagascar,Africa,Flowering Plant,1920-1939,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,"Agriculture & Aquaculture, Biological Resource Use",
+Terminalia acuminata,Brazil,South America,Flowering Plant,1940-1959,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Extinct in the Wild,Unknown,
+Terminalia exelliana,Madagascar,Africa,Flowering Plant,1960-1979,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,Agriculture & Aquaculture,
+Tetramolopium capillare,United States,North America,Flowering Plant,1980-1999,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,0,0,Extinct,"Climate Change, Natural System Modifications, Invasive Species, Geological Events",Research & Monitoring
+Thelethylax isalensis,Madagascar,Africa,Flowering Plant,1900-1919,0,0,0,0,1,0,1,1,0,1,0,0,1,0,0,0,0,0,Extinct,"Natural System Modifications, Pollution, Energy Production & Mining, Human Intrusions",Land & Water Protection
+Themistoclesia inflata,Ecuador,South America,Flowering Plant,1940-1959,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,"Commercial Development, Agriculture & Aquaculture",
+Thesium germainii,Burundi,Africa,Flowering Plant,1940-1959,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Extinct,"Agriculture & Aquaculture, Human Intrusions",
+Thesium lewallei,Burundi,Africa,Flowering Plant,1960-1979,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,"Commercial Development, Agriculture & Aquaculture",
+Tournefortia obtusiflora,Ecuador,South America,Flowering Plant,Before 1900,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Extinct,Unknown,
+Triaspis schliebenii,Tanzania,Africa,Flowering Plant,1920-1939,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,Agriculture & Aquaculture,
+Tridactyle sarcodantha,Tanzania,Africa,Flowering Plant,1920-1939,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,Agriculture & Aquaculture,
+Trilepidea adamsii,New Zealand,Oceania,Flowering Plant,1940-1959,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,"Commercial Development, Agriculture & Aquaculture, Invasive Species, Biological Resource Use",
+Trochetiopsis erythroxylon,"Saint Helena, Ascension and Tristan da Cunha",Africa,Flowering Plant,1940-1959,1,1,0,1,0,0,0,0,0,0,0,1,0,1,1,1,0,0,Extinct in the Wild,"Agriculture & Aquaculture, Invasive Species, Biological Resource Use, Unknown","Species Management, Law & Policy, Research & Monitoring"
+Trochetiopsis melanoxylon,"Saint Helena, Ascension and Tristan da Cunha",Africa,Flowering Plant,Before 1900,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Extinct,"Unknown, Invasive Species, Biological Resource Use",
+Tylostigma herminioides,Madagascar,Africa,Flowering Plant,1920-1939,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,Extinct,"Agriculture & Aquaculture, Human Intrusions",Land & Water Protection
+Tylostigma madagascariense,Madagascar,Africa,Flowering Plant,1900-1919,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Extinct,"Commercial Development, Agriculture & Aquaculture, Human Intrusions",
+Uvaria decidua,Tanzania,Africa,Flowering Plant,1920-1939,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Extinct,"Agriculture & Aquaculture, Natural System Modifications",
+Valerianella affinis,Yemen,Asia,Flowering Plant,Before 1900,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Extinct,Unknown,
+Vangueria verticillata,Tanzania,Africa,Flowering Plant,1940-1959,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,Energy Production & Mining,
+Vanvoorstia bennettiana,Australia,Oceania,Algae,Before 1900,0,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,Extinct,"Commercial Development, Transportation Corridor, Pollution, Biological Resource Use",
+Vatica xishuangbannaensis,China,Asia,Flowering Plant,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,Agriculture & Aquaculture,
+Vernonia ampandrandavensis,Madagascar,Africa,Flowering Plant,1940-1959,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Extinct,"Agriculture & Aquaculture, Natural System Modifications, Biological Resource Use",
+Vernonia sechellensis,Seychelles,Africa,Flowering Plant,Before 1900,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,Biological Resource Use,
+Viburnum divaricatum,Ecuador,South America,Flowering Plant,Before 1900,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Extinct,Unknown,
+Viola cryana,France,Europe,Flowering Plant,1920-1939,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,"Energy Production & Mining, Biological Resource Use",
+Wahlenbergia petraea,Burundi,Africa,Flowering Plant,1960-1979,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,Agriculture & Aquaculture,
+Weinmannia spiraeoides,Fiji,Oceania,Flowering Plant,Before 1900,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Extinct,Unknown,
+Wendlandia angustifolia,India,Asia,Flowering Plant,1980-1999,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,"Commercial Development, Agriculture & Aquaculture, Biological Resource Use",
+Wikstroemia hanalei,United States,North America,Flowering Plant,Before 1900,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,Invasive Species,
+Wikstroemia skottsbergiana,United States,North America,Flowering Plant,2000-2020,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,1,0,0,Extinct,"Unknown, Geological Events, Invasive Species",Research & Monitoring
+Xanthostemon sebertii,New Caledonia,Oceania,Flowering Plant,Before 1900,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Extinct,Unknown,
+Xylopia capuronii,Madagascar,Africa,Flowering Plant,1940-1959,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,"Agriculture & Aquaculture, Biological Resource Use",
+Xylosma serrata,Montserrat,North America,Flowering Plant,1980-1999,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Extinct,Geological Events,
+Zanthoxylum subspicatum,Madagascar,Africa,Flowering Plant,1980-1999,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,"Agriculture & Aquaculture, Biological Resource Use",
+Zingiber macrocephalum,Indonesia,Asia,Flowering Plant,Before 1900,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Extinct,"Commercial Development, Agriculture & Aquaculture, Biological Resource Use",
