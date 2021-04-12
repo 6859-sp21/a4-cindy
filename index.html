@@ -28,6 +28,31 @@
     div.text {
       font-family: Arial, Helvetica, sans-serif;
     }
+
+    div.species {
+      width:420px;
+      height:420px;
+      position:absolute;
+      top:280px;
+      left:1400px;
+      border-style: ridge;
+      overflow: auto;
+      font-size: 20px;
+      font-family: Arial, Helvetica, sans-serif;
+    }
+
+    div.plant_info {
+      width:360px;
+      height:420px;
+      position:absolute;
+      top:700px;
+      left:1400px;
+      border-style: ridge;
+      padding: 30px;
+      font-size: 20px;
+      font-family: Arial, Helvetica, sans-serif;
+    }
+
     
   </style>
   <head>
@@ -59,7 +84,11 @@
     <div id="threat" style="width:420px;height:320px;position:absolute;top:870px;left:10px;"></div>
     <div id="actions" style="width:420px;height:320px;position:absolute;top:870px;left:420px;"></div>
     <div id="plants" style="width:420px;height:320px;position:absolute;top:870px;left:840px;"></div>
-    <div id="species" style="width:420px;height:320px;position:absolute;top:280px;left:1120px;"></div>
+    <div class="species" id="species">
+      <p style='text-align: center;'> </p>
+      <ol> </ol>
+    </div>
+    <div class="plant_info" id="plant_info">
 
     <script src="map.js"></script>
     

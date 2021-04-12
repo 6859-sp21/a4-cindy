@@ -473,9 +473,9 @@ clicked = function(d) {
             .duration(10)
             .style("opacity", .9);
     plant_info.html(
-        `<b>Group:</b> ${group} <br>
-         <b>Red list Category:</b> ${red_list_category} <br> 
-         <b>`
+        `<b>Group:</b> ${group} <br><br>
+         <b>Red list Category:</b> ${red_list_category} <br><br> 
+         <b>Photo: </b><br><img src="pictures/${d}.png">`
      );
 
   }
@@ -487,7 +487,7 @@ clicked = function(d) {
   }
 
 d3.queue()
-  .defer(d3.json, "https://raw.githubusercontent.com/holtzy/D3-graph-gallery/master/DATA/world.geojson", )
+  .defer(d3.json, "https://raw.githubusercontent.com/6859-sp21/a4-cindy/main/continents.json", )
   .defer(d3.csv, "https://raw.githubusercontent.com/6859-sp21/a4-cindy/main/plants_by_country.csv", function(d) { data.set(d.code, +d.count); })
   .await(ready);
 
