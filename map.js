@@ -487,7 +487,7 @@ clicked = function(d) {
   }
 
 d3.queue()
-  .defer(d3.json, "https://raw.githubusercontent.com/6859-sp21/a4-cindy/main/continents.json", )
+  .defer(d3.json, "https://raw.githubusercontent.com/6859-sp21/a4-cindy/main/continents.geojson", )
   .defer(d3.csv, "https://raw.githubusercontent.com/6859-sp21/a4-cindy/main/plants_by_country.csv", function(d) { data.set(d.code, +d.count); })
   .await(ready);
 
