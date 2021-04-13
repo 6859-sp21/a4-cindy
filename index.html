@@ -31,10 +31,10 @@
 
     div.species {
       width:420px;
-      height:420px;
+      height:300px;
       position:absolute;
-      top:280px;
-      left:1400px;
+      top:250px;
+      left:1150px;
       border-style: ridge;
       overflow: auto;
       font-size: 20px;
@@ -43,10 +43,10 @@
 
     div.plant_info {
       width:360px;
-      height:420px;
+      height:350px;
       position:absolute;
-      top:700px;
-      left:1400px;
+      top:550px;
+      left:1150px;
       border-style: ridge;
       padding: 30px;
       font-size: 20px;
@@ -72,20 +72,26 @@
         Despite actions to preserve these endangered species, the magnitude of threats to biodiversity continue to grow.
       Using data from the <a href='https://www.iucnredlist.org/'> International Union for Conservation of Nature (IUCN) </a>, we've gathered 
       over <span style="color: #307D7E"><b>500</b></span> extinct species. 
-      <br><br>1. Where are extinct species clustered geographically?
+      <br><br><b><u>Key questions explored</u></b>
+        <br>1. Where are extinct species clustered geographically?
         <br>2. What are the greatest threats to biodiversity?
-        <br>3. What actions are being taken?<br><br>
-        <span style="color: #6e73a3"><b>(Click on a country to view its statistics. Scroll to zoom.)</b></span>
+        <br>3. What actions are being taken?
+        <br>4. When did species go extinct? <br><br>
+        <span style="color: #6e73a3; text-align: left;"><b><u>How to use the map</u><br> 
+          Click on a country to view its statistics; click again to reset.
+           <br> Scroll or drag the map to zoom and navigate.
+           <br> Darker colors indicate countries with more extinct species. </b></span>
     </p>  
     </div>
   	
     <!-- Create an element where the map will take place -->
-    <div id="main_map" class = 'text' style="width:820px;height:620px;position:absolute;top:280px;left:10px;"></div>
-    <div id="threat" style="width:420px;height:320px;position:absolute;top:870px;left:10px;"></div>
-    <div id="actions" style="width:420px;height:320px;position:absolute;top:870px;left:420px;"></div>
-    <div id="plants" style="width:420px;height:320px;position:absolute;top:870px;left:840px;"></div>
+    <div id="main_map" class = 'text' style="width:820px;height:620px;position:absolute;top:450px;left:10px;"></div>
+    <div id="threat" style="width:520px;height:350px;position:absolute;top:1040px;left:10px;"></div>
+    <div id="actions" style="width:520px;height:350px;position:absolute;top:1040px;left:540px;"></div>
+    <div id="plants" style="width:520px;height:350px;position:absolute;top:1040px;left:1000px;"></div>
     <div class="species" id="species">
       <p style='text-align: center;'> </p>
+      <p style='text-align: center;'>(Hover over plant for more info.)</p>
       <ol> </ol>
     </div>
     <div class="plant_info" id="plant_info">
